@@ -1,0 +1,9 @@
+D:\C#\SelectData\SelectData\bin\Debug\SelectData.exe.config
+D:\C#\SelectData\SelectData\bin\Debug\SelectData.exe
+D:\C#\SelectData\SelectData\bin\Debug\SelectData.pdb
+D:\C#\SelectData\SelectData\obj\Debug\SelectData.csprojResolveAssemblyReference.cache
+D:\C#\SelectData\SelectData\obj\Debug\SelectData.Form1.resources
+D:\C#\SelectData\SelectData\obj\Debug\SelectData.Properties.Resources.resources
+D:\C#\SelectData\SelectData\obj\Debug\SelectData.csproj.GenerateResource.Cache
+D:\C#\SelectData\SelectData\obj\Debug\SelectData.exe
+D:\C#\SelectData\SelectData\obj\Debug\SelectData.pdb
